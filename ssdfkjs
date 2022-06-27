@@ -1,0 +1,181 @@
+[33mcommit 59a24073f0e909a0854e082b4bd83d0567535bc8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Sat Apr 23 06:33:05 2022 -0300
+
+    to make image on separate state to that of stash-branh
+
+[33mcommit 83b972e407ea6dfa54f3f6e28a383a8a0dfff981[m
+Merge: a5fbf7b f57912a
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 07:59:21 2022 -0300
+
+    after merge on main
+
+[33mcommit a5fbf7b2f1a8e0e99dd830d4ea8f7068c3cd9f42[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 07:58:52 2022 -0300
+
+    before merge on main
+
+[33mcommit f57912a79ac0cf5addf54fcd4a74fc85bd34e057[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 07:58:04 2022 -0300
+
+    on merge Test
+
+[33mcommit 3a91b7a0e70335d83b966050b6e18c6176947c5d[m
+Merge: 51e3717 ac34f77
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 07:56:57 2022 -0300
+
+    remote merge
+
+[33mcommit ac34f77a9d7d1eb4dcb1b6e926479b7e722f0c6f[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 07:49:31 2022 -0300
+
+    Update tmp.html
+
+[33mcommit 51e3717bdde73e332667352902e38af1b36a18f0[m
+Merge: dc5af08 039e110
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 07:39:15 2022 -0300
+
+    after merge
+
+[33mcommit 039e1105a494ea002250b73326a794cdbb64d5c3[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 07:37:39 2022 -0300
+
+    on dominator 2
+
+[33mcommit dc5af089a72fca50007b3dba7595b5107700736b[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 07:35:20 2022 -0300
+
+    on dominator 2
+
+[33mcommit 2419aa402caed890afe8249b5c08ed227cb85711[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 07:35:06 2022 -0300
+
+    on dominator 1
+
+[33mcommit 87993a895db82cc44c821745c9d912b81b3d7343[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 07:31:01 2022 -0300
+
+    dominated
+
+[33mcommit d2e8148b6ac18b51305e0e8e54fe0c245ed00979[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 06:41:38 2022 -0300
+
+    revert tmp
+
+[33mcommit a6e3e8fe8dd4bb920926965679191a94b090ceb8[m
+Merge: 6952404 5f4d1fe
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 09:27:56 2022 +0300
+
+    Merge pull request #1 from Yonathan-Ashebir/dev
+    
+    Devjjb
+
+[33mcommit 5f4d1fec85a4986b496588127a8488638c65009a[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Merge: 2584eb0 6952404
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 09:22:54 2022 +0300
+
+    Merge branch 'main' into dev
+
+[33mcommit 2584eb065e98222a3980d701569f4f13fc2ba866[m
+Author: Yonathan Ashebir <yonatha12345678910@gmail.com>
+Date:   Fri Apr 22 03:03:46 2022 -0300
+
+    updated readme
+
+[33mcommit 09cbc3f192cb09d23e0a553babaf6f488047e201[m
+Author: Yonathan Ashebir <yonatha12345678910@gmail.com>
+Date:   Fri Apr 22 03:02:07 2022 -0300
+
+    deleted:    fsdfdfsddddddddddddddddddddddddddddddddddddddddddd
+
+[33mcommit 1c610d6be096c1bab42e3a60b5e9bf5076fc3700[m
+Author: Yonathan Ashebir <yonatha12345678910@gmail.com>
+Date:   Fri Apr 22 02:55:19 2022 -0300
+
+    changed tmp3
+
+[33mcommit 68ff961fa5323845e04e883858e6debded1b8ab5[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Fri Apr 22 02:54:05 2022 -0300
+
+    Update tmp.html
+
+[33mcommit 042204bf0759d4090998d6824eebb4020f7514a3[m
+Author: Yonathan Ashebir <yonatha12345678910@gmail.com>
+Date:   Fri Apr 22 02:36:47 2022 -0300
+
+    setup dev
+
+[33mcommit 6952404df99176a6d8c9d121d347695bc1cb43cd[m
+Author: Yonathan Ashebir <yonatha12345678910@gmail.com>
+Date:   Fri Apr 22 02:17:39 2022 -0300
+
+    added main image
+
+[33mcommit d7327fdfbb2e53c8cd36e331de1fb48de026bf3e[m
+Author: Yonthan Ashebir <yonatha12345678910@gmail.com>
+Date:   Fri Apr 22 01:54:42 2022 -0300
+
+    removed
+
+[33mcommit 36ad8e0b29489f416c41e38cfc6c9df9a603fb17[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Thu Apr 21 20:24:21 2022 +0300
+
+    Create tmp.html
+
+[33mcommit 05e6789343264355e1b97fcfdafb4d46dd453032[m
+Merge: f8d7484 80cff18
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Sat Mar 26 18:17:21 2022 +0300
+
+    Merge branch 'main' into dev
+
+[33mcommit f8d7484ee7ee0e98efc7b0bdf44ad9bd8be6a5b0[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Sat Mar 26 18:12:24 2022 +0300
+
+    Create some.image
+
+[33mcommit 9d1a22827ddd36971ac2668b0371c130f413c35f[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Sat Mar 26 18:11:22 2022 +0300
+
+    Create Index.html
+
+[33mcommit 80cff188bbc90074f44fc7183cc0f70997e79c61[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Sat Mar 26 18:09:52 2022 +0300
+
+    Create Index.html
+
+[33mcommit 706daa9fc5f58451603ff843a3e55b798cec8a7c[m[33m ([m[1;33mtag: pyton[m[33m, [m[1;31morigin/release[m[33m)[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Sat Mar 26 17:56:55 2022 +0300
+
+    Create README.md
+
+[33mcommit 1c7188ae2aa2c94a14ab0729d55e685d8ef3a73f[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Sat Mar 26 17:52:57 2022 +0300
+
+    Delete README.md
+
+[33mcommit 6bcf9651997d5d3847582a8bfa6e6bfb75e615e6[m
+Author: Yonathan-Ashebir <95496795+Yonathan-Ashebir@users.noreply.github.com>
+Date:   Sat Mar 26 17:41:28 2022 +0300
+
+    Initial commit
